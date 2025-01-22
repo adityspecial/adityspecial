@@ -6,7 +6,16 @@
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I enjoy solving real-world problems with code, experimenting with CI/CD workflows, and deploying apps seamlessly using containerization technologies.  
 - 🌐 I also have a budding interest in blockchain development and smart contracts.  
-
+## 🛠️ Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+## 📈 GitHub Stats
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityspecial&show_icons=true&theme=radical)
+Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or just chat about tech.
 <!---
 adityspecial/adityspecial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
