@@ -16,7 +16,6 @@
 
 - Contributor — **GirlScript Summer of Code 2025 (GSSoC '25)**
 
-- 
 ![Contributor's badge](https://github.com/user-attachments/assets/b3b6e2bc-d962-4692-891d-08e5638ba9e2)
 
 
