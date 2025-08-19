@@ -14,7 +14,9 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
-Contributor — GirlScript Summer of Code 2025 (GSSoC '25)
+- Contributor — **GirlScript Summer of Code 2025 (GSSoC '25)**
+
+- 
 ![Contributor's badge](https://github.com/user-attachments/assets/b3b6e2bc-d962-4692-891d-08e5638ba9e2)
 
 
