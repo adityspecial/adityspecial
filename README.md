@@ -36,8 +36,3 @@ Here’s an improved version of your README.md with the adjusted technologies GI
 
 ✨ Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or just chat about tech.
 
-✅ This replaces the plain badges with animated / SVG icons (cleaner look).
-✅ If you want a GIF banner of all technologies moving in a row, I can generate one for you and embed it in place of the <p align="center"> block.
-
-Do you want me to create a scrolling GIF of your tech stack (all icons moving in a loop)?
-
