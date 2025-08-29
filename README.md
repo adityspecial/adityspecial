@@ -1,8 +1,6 @@
-Got it 👍 You want to adjust your GitHub profile README so the technologies & tools section has a nice GIF/logo banner instead of plain badges (or in addition to them). A common way is to use a tech stack GIF banner (animated icons of your tools) above or alongside the badges.
 
-Here’s an improved version of your README.md with the adjusted technologies GIF:
-
-- 👋 Hi, I’m @adityspecial  
+- 👋 Hi, I’m Aditya kumar
+- UNDERGRAD AT IIT DHARWAD.
 - 🌱 I’m currently learning advanced web development with React, Node.js, and Material-UI, along with mastering DevOps tools like Docker, Kubernetes, Jenkins, GitHub Actions, and CI/CD pipelines.  
 - 💻 I'm a passionate web developer and DevOps enthusiast, focused on creating scalable, efficient, and responsive applications while automating deployment and infrastructure management.  
 - 💞️ I’m looking to collaborate on full-stack web development projects, open-source contributions, and DevOps automation initiatives.  
